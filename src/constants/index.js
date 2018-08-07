@@ -1,0 +1,9 @@
+export const MODES = {
+    CHANNELS: 'CHANNELS',
+    CHANNEL: 'CHANNEL',
+    INBOX: 'INBOX',
+    VIEW: 'VIEW',
+    OFFLINE: 'OFFLINE',
+    FAVORITE: 'FAVORITE',
+    ACCOUNT: 'ACCOUNT',
+};

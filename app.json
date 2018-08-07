@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Promo Portal",
+    "icon": "./src/assets/logo-29x38.png",
+    "version": "1.0.0",
+    "slug": "promo-portal",
+    "sdkVersion": "23.0.0",
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.yourappname"
+    },
+    "android": {
+      "package": "com.yourcompany.yourappname"
+    }
+  }
+}
