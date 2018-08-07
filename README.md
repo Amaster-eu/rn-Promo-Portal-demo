@@ -8,5 +8,10 @@ Test sample of Promo Portal (media & music exchange) mobile application. Promo P
 
 ## Installation
 
-`https://github.com/Amaster-eu/rn-App.git`
+`git clone https://github.com/Amaster-eu/rn-Promo-Portal-demo.git`
 
+`cd rn-Promo-Portal-demo`
+
+`npm install`
+
+`npm start` > press `i` for run iOS device simulator or `a` for Android. 
